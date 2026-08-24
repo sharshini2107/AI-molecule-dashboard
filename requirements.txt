@@ -1,0 +1,6 @@
+streamlit
+rdkit
+numpy
+pandas
+requests
+scikit-learn
